@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b480b8d3ac954d4380005fe37d8d6e4, type: 3}
+  m_Name: Game Over
+  m_EditorClassIdentifier: 
+  storyText: You're an idiot! You sold your homeland and voted for United Russia!
+    Goodbye, there will be no more road for the bright future of Russia...
+  nextStates:
+  - {fileID: 11400000, guid: c04cf4502388d1a488a86880ed8a2075, type: 2}

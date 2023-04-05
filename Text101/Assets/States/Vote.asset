@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b480b8d3ac954d4380005fe37d8d6e4, type: 3}
+  m_Name: Vote
+  m_EditorClassIdentifier: 
+  storyText: "Today I'm going to vote for the Governor of the Leningrad region. \r\nI
+    have reached the polling station and I have a difficult choice before me\r\n\r\nWho
+    should I vote for?\r\n1) Vote for United Russia\r\n2) Vote for Liberal Democratic
+    Party of Russia"
+  nextStates:
+  - {fileID: 11400000, guid: 18d7584d927e4494ab7ec5d5feabfe1c, type: 2}
+  - {fileID: 11400000, guid: 32f21e8d80a8e5e4d8858f6d5e76cfd7, type: 2}
